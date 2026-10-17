@@ -1,0 +1,9 @@
+{
+  "name": "Meeting and Study Room Hub",
+  "description": "A full-stack collaborative meeting and learning workspace integrated with secure user authentication, calendar study scheduling with an interactive monthly view, persistent real-time chat, and a NotebookLM-style AI study companion.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
